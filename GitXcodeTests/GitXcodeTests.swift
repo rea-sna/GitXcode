@@ -2,7 +2,7 @@
 //  GitXcodeTests.swift
 //  GitXcodeTests
 //
-//  Created by 繁野怜央 on 2020/12/21.
+//  Created by Reo.S on 2020/12/21.
 //
 
 import XCTest
